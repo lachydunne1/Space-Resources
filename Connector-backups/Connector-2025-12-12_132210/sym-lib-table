@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Connectors")(type "KiCad")(uri "/home/maxwell/Desktop/Projects/zQUT_ROAR/hardware/libraries/Connectors.kicad_sym")(options "")(descr ""))
+)
